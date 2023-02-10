@@ -53,13 +53,14 @@
 ## 📫 How to reach me
 
 <p align="left">
-<a href="https://twitter.com/AleksanderGD"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
-<a href="mailto:agdbusiness@hotmail.com"><img src="https://img.icons8.com/color/96/000000/microsoft-outlook.png" alt="email"/></a>
-<a href="https://www.linkedin.com/in/aleksandergd"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+<a href="https://twitter.com/AleksanderGD"><img src="https://img.icons8.com/color/50/000000/twitter-squared.png" alt="twitter"/></a>
+<a href="mailto:agdbusiness@hotmail.com"><img src="https://img.icons8.com/color/50/000000/ms-outlook.png" alt="email"/></a>
+<a href="https://www.linkedin.com/in/aleksandergd"><img src="https://img.icons8.com/color/50/000000/linkedin.png" alt="linkedin"/></a>
 </p>
-
+ 
 ![](https://visitor-badge.glitch.me/badge?page_id=aleksander-GD.aleksander-GD)
-<!---
+<!---![Uploading image.png…]()
+
 aleksander-GD/aleksander-GD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 [![AleksanderGD's github stats](https://github-readme-stats.vercel.app/api?username=AleksanderGD&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
