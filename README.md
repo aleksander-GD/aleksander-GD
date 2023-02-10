@@ -41,15 +41,16 @@
 </a>
 </p>
 
-📫 How to reach me
+## 📫 How to reach me
 
+<p align="left">
 <a href="https://twitter.com/AleksanderGD/">
   <img align="left" alt="Aleksander Grzegorz Duszkiewicz | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/aleksandergd/">
   <img align="left" alt="Aleksander's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
+</p>
 <!---
 aleksander-GD/aleksander-GD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
