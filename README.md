@@ -54,7 +54,7 @@
 
 <p align="left">
 <a href="https://twitter.com/AleksanderGD"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
-<a href="mailto:agdbusiness@hotmail.com"><img src="https://img.icons8.com/color/96/000000/hotmail.png" alt="email"/></a>
+<a href="mailto:agdbusiness@hotmail.com"><img src="https://img.icons8.com/color/96/000000/microsoft-outlook.png" alt="email"/></a>
 <a href="https://www.linkedin.com/in/aleksandergd"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
 </p>
 
