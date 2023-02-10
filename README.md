@@ -10,7 +10,7 @@
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=laravel&svgfill=cd6799">
 </a>
 <a href="https://github.com/aleksander-GD">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=laravel nova&svgfill=cd6799">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=laravel%20nova&svgfill=cd6799">
 </a>
 <a href="https://github.com/aleksander-GD">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=php&svgfill=df5c43">  
