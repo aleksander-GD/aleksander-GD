@@ -42,6 +42,7 @@
 </p>
 
 📫 How to reach me
+
 <a href="https://twitter.com/AleksanderGD/">
   <img align="left" alt="Aleksander Grzegorz Duszkiewicz | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
