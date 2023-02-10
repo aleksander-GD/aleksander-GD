@@ -51,6 +51,8 @@
   <img align="left" alt="Aleksander's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 </p>
+
+![](https://visitor-badge.glitch.me/badge?page_id=aleksander-GD.aleksander-GD)
 <!---
 aleksander-GD/aleksander-GD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
