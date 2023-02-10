@@ -53,12 +53,9 @@
 ## 📫 How to reach me
 
 <p align="left">
-<a href="https://twitter.com/AleksanderGD/">
-  <img align="left" alt="Aleksander Grzegorz Duszkiewicz | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/aleksandergd/">
-  <img align="left" alt="Aleksander's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+<a href="https://twitter.com/AleksanderGD"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
+<a href="mailto:agdbusiness@hotmail.com"><img src="https://img.icons8.com/color/96/000000/outlook.png" alt="email"/></a>
+<a href="https://www.linkedin.com/in/aleksandergd"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
 </p>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=aleksander-GD.aleksander-GD)
